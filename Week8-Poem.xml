@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8?" xmlns="http://www.tei-c.org/ns/1.0"?>
+<!--The Sick Rose, from Songs of Innocence (1798) by William Blake-->
+<!--Transcribed to XML by Joe Lollo-->
+<text xml:id="d1">
+	<body xml:id="d2">
+		<div1 type="book" xml:id="d3">
+  		<head>Songs of Innocence</head>
+  		<l>by William Blake</l>
+			<div2 type="poem" xml:id="d4">
+			<head>The Sick Rose</head>
+			<lg type="stanza">
+				<l>O Rose, thou art sick.</l>
+				<l>The invisible worm</l>
+				<l>That flies in the night.</l>
+				<l>In the howling storm;</l>
+			</lg>
+			<lg type ="stanza">
+				<l>Has found out thy bed,</l>
+				<l>And his dark secret love</l>
+				<l>Does thy life destroy.</l>
+			</lg>
+			</div2>
+		</div1>
+	</body>
+</text>
+<!--More poems go here...-->
