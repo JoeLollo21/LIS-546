@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Formatting a Cookie Recipe as XML-->
+<!--Cookie Recipe from PCC Community Markets-->
+<!--XML by Joe Lollo-->
+<recipe>
+	<title>Thick, Chewy Chocolate Chip Cookies</title>
+	<description>Yields about 20 cookies.</description>
+	<ingredientNotes>
+		<note>Corn-free</note>
+		<note>Peanut free</note>
+		<note>Soy-free</note>
+		<note>Tree nut-free</note>
+	</ingredientNotes>
+	<ingredientList>
+		<ingredient n="1">¾ cup butter</ingredient>
+		<ingredient n="2">1 ¼ cups dark brown sugar</ingredient>
+		<ingredient n="3">⅓ cup white sugar</ingredient>
+		<ingredient n="4">2 ½ teaspoons vanilla extract</ingredient>
+		<ingredient n="5">1 whole egg, plus 1 egg yolk</ingredient>
+		<ingredient n="6">2 ¼ cups all-purpose flour</ingredient>
+		<ingredient n="7">1 teaspoon salt</ingredient>
+		<ingredient n="8">¾ cup chocolate chips</ingredient>
+	</ingredientList>
+	<directions>
+		<step n="1">Melt butter, then cool to room temperature.</step>
+		<step n="2">Preheat oven to 325° F. Line two baking sheets with parchment paper.</step>
+		<step n="3">Combine both sugars in the bowl of a stand mixer and stir on low speed to combine. Add cooled butter, adjust speed to medium and beat for 2 full minutes. Scrape down sides of the bowl, add vanilla and whole egg and beat for 2 minutes, then add egg yolk. Beat for 1 final minute: the mixture should resemble pale brown butter cream at this point.</step>
+		<step n="4">Add flour, baking soda, and salt, and blend on low speed just until no white streaks of flour remain. Fold in chocolate chips with a spatula.</step>
+		<step n="5">Form dough into balls 2-inches across (about 1 1/2 tablespoons) and place on the prepared baking sheets a couple of inches apart. Bake 12 to 16 minutes, until edges are slightly crisp and the centers are set. Let cool on the baking sheets. Will keep at room temperature for 2 days, or freeze for up to 1 month.</step>
+	</directions>
+	<citation source="website">https://www.pccmarkets.com/recipe/thick-chewy-chocolate-chip-cookies/</citation>
+</recipe> 
+<!--More recipes go here...-->
