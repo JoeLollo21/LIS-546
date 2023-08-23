@@ -1,0 +1,10 @@
+"creator": {
+   "@type":"Organization",
+   "url": "https://www.ncei.noaa.gov/",
+   "name":"OC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+   "contactPoint":{
+      "@type":"ContactPoint",
+      "contactType": "customer service",
+      "telephone":"+1-828-271-4800",
+      "email":"ncei.orders@noaa.gov"
+}
